@@ -1,0 +1,8 @@
+com\mvc\hibernate\dao\CustomerDAOImpl.class
+com\mvc\hibernate\entity\Customer.class
+com\mvc\hibernate\service\CustomerServiceImpl.class
+com\mvc\hibernate\controller\CustomerController.class
+com\mvc\hibernate\dao\CustomerDAO.class
+com\mvc\hibernate\WebMvcConfig.class
+com\mvc\hibernate\AppContext.class
+com\mvc\hibernate\service\CustomerService.class
